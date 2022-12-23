@@ -8,6 +8,8 @@ Eu não me responsabilizo por bugs ou crash de aparelhos por não ver meu vídeo
 
 1) Faça download do novo Palera1n-Gui Linux:
 
+https://is.gd/zoCoLx
+
 
 2) Tenha instalado no seu computador uma versão linux de versão superior a "22.04", o mais recomendado é o "Linux Mint 21 Cinnamon - Vanessa".
 
