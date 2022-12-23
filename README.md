@@ -4,6 +4,7 @@
 OBS:
 Antes de prosseguir aqui, veja meu video por completo sobre este github no meu youtube oficial.
 Eu não me responsabilizo por bugs ou crash de aparelhos por não ver meu vídeo por completo!
+https://youtu.be/HGyx68pqcuo
 
 
 1) Faça download do novo Palera1n-Gui Linux:
