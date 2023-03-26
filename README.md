@@ -18,7 +18,7 @@ https://is.gd/zoCoLx
 3) Comandos git no terminal:
 
 # Palera1n Nativo:
-sudo git clone --recursive https://github.com/palera1n/palera1n
+sudo git clone --recursive https://github.com/palera1n/palera1n -b legacy
 
 # Palera1n 3.0:
 sudo git clone --recursive https://github.com/Italogc/palera1n-3.0
